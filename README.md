@@ -6,7 +6,7 @@ Ich werde das Projekt noch auf meinem Server hosten.
 Falls Ihr es lokal installieren und laufen lassen wollt, folgt bitte den Anweisungen im Projekt selbst oder die Folgenden:
 
 - `git clone https://github.com/BlockBenny/DeliveryManagement.git`
-- `cd deliverymanagement`
+- `cd DeliveryManagement/deliverymanagement/`
 - `npm update`
 - `npm run dev`
 
