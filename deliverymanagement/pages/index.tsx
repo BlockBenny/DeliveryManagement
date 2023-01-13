@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { getCookie } from "cookies-next";
 
-//Get status selection of delivery and preselect parameter
+//Delivery status section with Preselection
 const DeliveryStatusSelection = (selected: string) => {
   return (
     <select name="orderStatus" id="orderS" defaultValue={selected}>
