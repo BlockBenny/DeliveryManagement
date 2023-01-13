@@ -96,6 +96,7 @@ Ich mich deshalb auch bewusst dazu entschieden, einige Sachen wegzulassen, was i
 Hier ein paar Sachen, die ich noch umgesetzt hätte im 'echten Leben'
 
 - Validierung auf Serverseite
+- Indexierung der Daten mit einem Unique Key
 - Erstellung von Klassen und Enums für das interne Verarbeiten
 - Unit Tests
 - Projektstruktur mit DataAcces, Model, Logic und View Schicht
